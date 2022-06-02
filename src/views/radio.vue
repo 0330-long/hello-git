@@ -18,7 +18,7 @@
         <el-radio-button label="New York"></el-radio-button>
         <el-radio-button label="厦门"></el-radio-button>
         <el-radio-button label="新疆"></el-radio-button>
-        <el-radio-button label="广州"></el-radio-button>
+        <el-radio-button label="上海"></el-radio-button>
     </el-radio-group>
 </div>
 </template>
